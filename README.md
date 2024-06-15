@@ -9,7 +9,7 @@ $ git clone https://github.com/wonda-tea-coffee/linter-handson.git
 - ディレクトリに移動
 
 ```sh
-cd linter-handson
+$ cd linter-handson
 ```
 
 - サンプルファイルをコピー
