@@ -5,6 +5,6 @@
 # 2. ダブルクォートよりシングルクォートを使う
 # 3. 末尾のセミコロンが不要
 
-def hello()
-  puts "Hello";
+def hello
+  puts 'Hello'
 end
